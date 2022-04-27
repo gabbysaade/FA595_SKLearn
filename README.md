@@ -8,4 +8,5 @@ Using the California Housing Data set available here (https://scikit-learn.org/s
 
 # SKLearn_Iris.py
 This script is the solution to the following problem:
+
 Using the Iris (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris) data set, create a script that trains multiple KMeans clustering models. Each KMeans model should have a different number of clusters, starting at 1 ending at 7. Use this information to graph the number of clusters vs the "inertia" (the average distance to the centroids) and confirm, using the elbow heuristic, how many clusters should be used to best describe this dataset.
